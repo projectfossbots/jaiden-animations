@@ -15,7 +15,7 @@ Species: Human
 Fiction Type: Fictional + Real
 ```
 
-# Phyical Appearance
+# Physical Appearance
 
 ```
 Jaiden has a skinny body, skin that is colored pure white, brown-colored hair, a bright-lavender-colored shirt, and vampire-grey-colored pants.
